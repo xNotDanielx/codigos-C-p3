@@ -1,0 +1,30 @@
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\bin\Debug\Logica.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\bin\Debug\Logica.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Puzzle\obj\Debug\Puzzle.pdb

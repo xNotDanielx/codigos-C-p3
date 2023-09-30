@@ -1,0 +1,22 @@
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\obj\Debug\Logica.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Logica\obj\Debug\Logica.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\bin\Debug\Logica.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\bin\Debug\Logica.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\bin\Debug\Datos.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\bin\Debug\Datos.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\obj\Debug\Logica.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Logica\obj\Debug\Logica.pdb

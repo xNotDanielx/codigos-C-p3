@@ -1,0 +1,18 @@
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\obj\Debug\Datos.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Datos\obj\Debug\Datos.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\bin\Debug\Datos.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\bin\Debug\Datos.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\obj\Debug\Datos.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Datos\obj\Debug\Datos.pdb

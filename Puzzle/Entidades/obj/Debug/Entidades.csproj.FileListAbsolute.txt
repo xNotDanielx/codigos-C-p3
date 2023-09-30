@@ -1,0 +1,12 @@
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Desktop\SDAS\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Entidades\bin\Debug\Entidades.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Entidades\obj\Debug\Entidades.dll
+C:\Users\Daniel\Documents\C# codes 2023-2\Puzzle\Entidades\obj\Debug\Entidades.pdb
